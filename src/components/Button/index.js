@@ -6,7 +6,7 @@ class Button extends Component{
     render(){
        return(
            <div>
-               <button>Open Coockie</button>
+               <button onClick={this.props.action}>Open Coockie</button>
            </div>
        )
     }
