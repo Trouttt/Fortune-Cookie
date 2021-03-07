@@ -1,0 +1,14 @@
+.buttonCookie{
+    padding: 1vw 2vw;
+    background-color:rgb(212, 134, 16);
+    color:white;
+    font-weight:bold;
+    font-size:1rem;
+    border:none;
+    border-radius:0.3vh;
+}
+.buttonCookie:hover{
+    transition:0.4s;
+    background-color:white;
+    color:rgb(212, 134, 16);
+}
